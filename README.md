@@ -9,7 +9,10 @@ This example project includes a `CustomMeshRendering` class that inherits from `
 - Build (should automatically restore Dynamo NuGet dependecies)
 - Import C:\PROJECTLOCATION\CustomMeshRendering\CustomMeshRendering\bin\Debug\\`CustomMeshRendering.dll` in Dynamo 2.0
 
-## Notes
+## Extra Folder
+The `Extra` folder contains some additional imagery and an example graph describing the implemention logic.  To open this graph you must load the `CustomMeshRendering.dll` from this project and have MeshToolkit installed (used for a comparison).
+
+## Additional Notes
 This example is built against Dynamo 2.0.  If you would like to import the example into an older version of Dynamo you must modify the NuGet packages to match the version of Dynamo you wish to use.
 
 Steps in Visual Studio:
