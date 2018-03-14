@@ -2,6 +2,8 @@
 
 This example project includes a `CustomMeshRendering` class that inherits from `IGraphicItem` to display mesh Quads with edges.  Each quad is comprised of 2 triangles in HelixToolkit (a wrapper on DirectX).
 
+![example img](https://github.com/alfarok/DynamoQuadMesh/blob/master/Extra/QuadAsTriangles.gif)
+
 ## Building
 - Open solution in Visual Studio
 - Build (should automatically restore Dynamo NuGet dependecies)
